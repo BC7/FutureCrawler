@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: example-pkg
+Version: 0.0.1
+Summary: Web crawler that parses articles from futurism.com
+Home-page: https://github.com/BC7/FutureCrawler
+Author: Example Author
+Author-email: author@example.com
+License: UNKNOWN
+Description: # FutureCrawler
+        Python web scraper that scrapes articles off futurism.com utilizing the scrapy web crawling framework
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
