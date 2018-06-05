@@ -1,6 +1,9 @@
 setup.py
 FutureCrawler/__init__.py
+FutureCrawler/__main__.py
+FutureCrawler/futurism_spider.py
 example_pkg.egg-info/PKG-INFO
 example_pkg.egg-info/SOURCES.txt
 example_pkg.egg-info/dependency_links.txt
+example_pkg.egg-info/requires.txt
 example_pkg.egg-info/top_level.txt
